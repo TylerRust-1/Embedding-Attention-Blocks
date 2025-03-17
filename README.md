@@ -37,6 +37,7 @@ Follow [this](https://github.com/Seth-Park/MultimodalExplanations) page to downl
 
 ### VizWiz-VQA-Grounding
 To download the VizWiz-VQA-Grounding dataset, follow [this](https://vizwiz.org/tasks-and-datasets/answer-grounding-for-vqa/) link.
+Updated Link found [here](https://vizwiz.org/tasks-and-datasets/vqa/)
 
 ## Training
 The provided code supports training on single and multiple nodes with one or more GPUs.
